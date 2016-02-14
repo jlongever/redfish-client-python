@@ -29,8 +29,7 @@ import path.to.on_http_redfish_1_0
 ```
 
 ## Getting Started
-
-TODO
+See example.py for usage examples.
 
 ## Documentation
 
